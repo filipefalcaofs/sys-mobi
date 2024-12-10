@@ -1,0 +1,8 @@
+{
+  "name": "SYSMobi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "4fc1e5d1"
+}
